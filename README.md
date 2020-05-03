@@ -3,5 +3,5 @@ R-Jupyter Notebook containing the code for the paper "How Many People Have Reall
 
 You can also run the code on Binder:
 
-https://mybinder.org/v2/gh/fermosc/CoVID-Prevalence/master?filepath=Covid1-FINAL.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fermosc/CoVID-Prevalence/master?filepath=Covid1-FINAL.ipynb)
 
